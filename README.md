@@ -20,3 +20,23 @@ This is a basic static HTML starter project you can build on however you like. N
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+## Language Reference
+- CSS: https://www.w3schools.com/cssref/default.asp
+- HTML: https://www.w3schools.com/tags/default.asp
+- JavaScript: https://www.w3schools.com/jsref/default.asp
+
+## Powerful Websites
+- https://heropatterns.com/
+- https://oscarotero.com/jquery/
+- https://coolors.co/
+
+## Learn More 
+- HTML:
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+- CSS;
+  - https://web.dev/learn/css/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzuv1P6mT7fIH5ps32hEXjBrPcu4QZPoWsgOHe7qJdZaf00GSZOHRdRoCP9gQAvD_BwE
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS
+- JavaScript:
+  - https://javascript30.com/
+  - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
