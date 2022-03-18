@@ -194,3 +194,4 @@ This is a basic static HTML starter project you can build on however you like. N
   - [Wanna speed run JavaScript and inflate your projects list?](https://javascript30.com/)
   - [Another good site](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     >"Straight from the horse's mouth"
+
