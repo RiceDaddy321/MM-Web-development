@@ -31,35 +31,33 @@ This is a basic static HTML starter project you can build on however you like. N
 
 * HTML tag: It is the root of the html document which is used to specify that the document is html.
   * Syntax: 
- 
     * <html> Statements... </html>
   * Code:     
->`<html>
-    <head> 
-        <title>Title of your web page</title> 
-    </head> 
-    <body>HTML web page contents </body> 
-</html>`
+    >`<html>`
+       `<head>`
+          `<title>Title of your web page</title>`
+       `</head>`
+       `<body>HTML web page contents </body>`
+     `</html>`
 
 * Head tag: Head tag is used to contain all the head element in the html file. It contains the title, style, meta, … etc tag.
   * Syntax: 
- 
     * <head> Statements... </head>
   * Code: 
->`<head>Contains elements describing the document</head>``
+    >`<head>Contains elements describing the document</head>``
 
 * Body tag: It is used to define the body of html document. It contains image, tables, lists, … etc.
   * Syntax: 
  
     * <body> Statements... </body>
   * Code: 
->`<body>The content of your HTML page</body>`
+    >`<body>The content of your HTML page</body>`
 
 * Title tag: It is used to define the title of html document.
   * Syntax: 
     * <title> Statements... </title>
   * Code: 
->`<title>tab name</title>``
+    >`<title>tab name</title>``
 
 * Heading tag: It is used to define the heading of html document.
   * Syntax: 
@@ -79,7 +77,6 @@ This is a basic static HTML starter project you can build on however you like. N
 
 * Paragraph tag: It is used to define paragraph content in html document.
   * Syntax: 
- 
     * `<p> Statements... </p>`
   * Code: 
      >`<p>GeeksforGeeks: Computer science portal</p>`
