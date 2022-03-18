@@ -37,21 +37,6 @@ This is a basic static HTML starter project you can build on however you like. N
   - This won't be all that relevant for the majority of y'all; **however**, if you just want to play around with it... **_here you are_**.
 - For when you want to be reminded of how far we have come since the [**good ol' days**](https://badhtml.com/).
 - If you want to make documentation as good or better than this then [follow me](https://www.markdowntutorial.com/lesson/1/)
-
-## Learn More 
-- HTML:
-  - [Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-- CSS;
-  - [A great start for learning CSS, **_hands on_**, CSS and very thorough](https://web.dev/learn/css/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzuv1P6mT7fIH5ps32hEXjBrPcu4QZPoWsgOHe7qJdZaf00GSZOHRdRoCP9gQAvD_BwE)
-  - [Another good site](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-  - [Presentation on how to make good looking CSS](https://www.slideshare.net/lachlanhardy/beautiful-maintainable-css)
-    >"Straight from the horse's mouth"
-  - [How to organize your tags.](https://www.youtube.com/watch?v=R3J3Bqcbt2A)
-  - ### Bootstrap 5 [tutorial](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/).
-- JavaScript:
-  - [Wanna speed run JavaScript and inflate your projects list?](https://javascript30.com/)
-  - [Another good site](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-    >"Straight from the horse's mouth"
   
 ## Quick CSS Reference Pictures  
 ### The Box Model
@@ -72,23 +57,19 @@ This is a basic static HTML starter project you can build on however you like. N
 
 ### CSS Specificity ranking
   * ![rank](https://cdn.glitch.global/8540fa10-17ef-483b-a1f7-4107bd053404/Screen%20Shot%202022-03-16%20at%2012.55.06%20PM.png?v=1647584431866)
-=======
-- CSS: https://www.w3schools.com/cssref/default.asp
-- HTML: https://www.w3schools.com/tags/default.asp
-- JavaScript: https://www.w3schools.com/jsref/default.asp
-
-## Powerful Websites
-- https://heropatterns.com/
-- https://oscarotero.com/jquery/
-- https://coolors.co/
 
 ## Learn More 
 - HTML:
-  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+  - [Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - CSS;
-  - https://web.dev/learn/css/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzuv1P6mT7fIH5ps32hEXjBrPcu4QZPoWsgOHe7qJdZaf00GSZOHRdRoCP9gQAvD_BwE
-  - https://developer.mozilla.org/en-US/docs/Learn/CSS
+  - [A great start for learning CSS, **_hands on_**, CSS and very thorough](https://web.dev/learn/css/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzuv1P6mT7fIH5ps32hEXjBrPcu4QZPoWsgOHe7qJdZaf00GSZOHRdRoCP9gQAvD_BwE)
+  - [Another good site](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+  - [Presentation on how to make good looking CSS](https://www.slideshare.net/lachlanhardy/beautiful-maintainable-css)
+    >"Straight from the horse's mouth"
+  - [How to organize your tags.](https://www.youtube.com/watch?v=R3J3Bqcbt2A)
+  - ### Bootstrap 5 [tutorial](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/).
 - JavaScript:
-  - https://javascript30.com/
-  - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+  - [Wanna speed run JavaScript and inflate your projects list?](https://javascript30.com/)
+  - [Another good site](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    >"Straight from the horse's mouth"
 
